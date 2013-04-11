@@ -1,0 +1,106 @@
+DARK/LIGHT
+
+HERO UNIT
+
+Spells: Darkness Descend: Stuns all target in an area(3sec) and leaves darkness 
+on the ground(5sec), if any enemy ground units enter the darkness the get 
+stunned as well.
+Trillion drive: Deal aoe dmg in an area for 5 sec,deals dmg each sec inside the area.
+Form change: change between 2 forms(dark/light) gaining diffrent stats 
+depending on the form.
+
+
+
+
+Defender of the sun
+
+2 atk, 3 hp, 0 arm, range: Low
+
+Mana cost:Low.
+
+Effects: None.
+
+
+
+Chained darkness
+
+2 atk, 2 hp, 0 arm, range: Melee
+
+Mana cost:Low-medium.
+
+Effects: Heart of darkness: when chained darkness dies he is reborn after 2 sec with
+4atk, 4hp, 0 arm, range:Melee. Chained darkness will die 5 sec after he is reborn.
+
+
+
+Shadow wisp
+
+1 atk, 2 hp, 0 arm, range: Low
+
+Mana cost:Medium.
+
+Effects: Dark grasp: All units in an area become immune to everything for 10 sec but 
+during that time they can't do anything.
+Burst of speed: Give friendly target bonus move and attack speed for 5 sec.
+
+
+
+Light wisp
+
+1 atk, 2 hp, 0 arm, range: Low
+
+Mana cost:Medium.
+
+Effects: Armor of the sun: Give friendly target +1 arm and +3 hp for 10 sec.
+Sun orb: Deal 3 dmg and stun the target for 1,5 sec.
+
+
+
+Shadow dancer
+
+3 atk, 4 hp, 0 arm, range: Melee
+
+Mana cost:High.
+
+Effects: Feast on shadows: Each attack against enemy target heal shadow dancer for 1 hp, 
+this effect stack 5 hp over max hp(buffs included).
+
+
+
+Night raider
+
+2 atk, 2 hp, 0 arm, range: Medium
+
+Flying
+
+Mana cost:Medium.
+
+Effects: Hunter of the night:Night raider become stealthed for 2 sec(low cooldown).
+
+
+
+Sun god
+
+5 atk, 2 hp, 0 arm, range: High
+
+Flying
+
+Mana cost:High.
+
+Effects: Slow attack and move speed, ground attack only.
+
+
+
+Twilight wips
+
+2 atk, 4 hp, 0 arm, range: Medium
+
+Mana cost:High.
+
+Effects: Sun ray: summons 15 light rays att target location that last for 15 sec.
+(Light ray: 1 atk, 2 hp, 0 arm, range: melee)
+Dark orb: splash darkness on the ground hitting all enemy ground units in that area.
+if those units are still in that area after 5 sec the get stunned for 3 sec.
+Super nova: Twilight wisp charge for 4 sec and then plants itself on the ground 
+becoming immune to everything. After 5 sec the Twilight wisp explode dealing 
+massive aoe dmg to all units in the area(friendly fire).

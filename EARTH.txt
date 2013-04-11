@@ -1,0 +1,84 @@
+EARTH
+
+HERO UNIT
+
+spells: MAGNETIC GRIP:Pulls all enemy units in the area to the caster. all enemy 
+air units become grounded for 5 sec.
+HAMMER OF THE GODS: The caster gains aoe dmg and root all targets hit for 0,5 sec 
+and gains air attack.
+ROCK ARMOR: if the caster takes no dmg in 10 sec he gains a shield that absorbs 
+some dmg and when the shield breaks the hero unit ignores unit collision for 4 sec.
+
+
+
+Stone guardian
+
+2 atk, 4 hp, 0 arm, range: Melee
+
+Mana cost:Low-medium.
+
+Effects: Rock form: Stone guardian gains +1 arm for 5 sec. After 
+rock form ends he gain +1 dmg on next attack.
+
+
+
+Stone scout
+
+2 atk, 2 hp, 0 arm, range: Melee
+
+Mana cost:Low.
+
+Effects: Leap: Stone scout jumps to target location slowing all enemy units in the
+area for 3 sec(50% slow).Stone scout gains a shield for 5 sec after he lands.
+
+
+
+Stone Wisp
+
+1 atk, 3 hp, 0 arm, range: Melee
+
+Mana cost:Medium.
+
+Effects: Magnetic gate: All enemy units in the area are pulled to the center 
+and stunned for 0,5 sec and slowed for for 3 sec(50%slow). Air units hit are 
+grounded for 5 sec.
+Magnetic force: put upp a barrier around the Stone wisp that absorb range dmg that
+hits units inside the barrier and when enugh dmg is absorbed the barrier break.
+Gravity stone: Stone wisp kills itself on target enemy air unit making that and other 
+air units in the area grounded(permanent duration).
+
+
+
+Stone giant
+
+4 atk, 8 hp, 2 arm, range: Melee
+
+Mana cost: Very high.
+
+Effects: Splash: Attacks do aoe dmg.
+
+
+
+Stone charger
+
+3 atk, 4 hp, 1 arm, range: Melee
+
+Mana cost:Medium.
+
+Effects: Stamped strike: Charge to target enemy ground unit stunning it for 1 sec.
+enemy ground units in the way are knocked back and stunned for 1 sec.
+
+
+
+Mercury stone
+
+2 atk, 4 hp, 0 arm, range: Melee
+
+Mana cost:Medium-high.
+
+Effects: Merge: Mercury stone enter a friendy target giving that target a dmg and range
+buff. If merged target dies then mercury stone leaves the body. Mercury stone can merge 
+and unmerge at will.
+Quake: Rise a stone at the target location blocking all ground units. The stone last for 
+10 sec.
+Crumble: Destroys a quake stone dealing aoe dmg to all enemy ground units close to it.

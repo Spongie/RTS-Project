@@ -1,0 +1,110 @@
+fire
+
+HERO UNIT
+
+spells: FURY OF THE FLAME: a giant fireball strike and roll on the ground dealing
+massiv dmg to all targets hit.
+FLING: Throw target to taget area(work on friendly target).
+MELTDOWN: Melts the ground around the caster stuning all ground units in the area 
+for 3 sec and reset the cooldown on fling.
+
+Magma elemental 
+
+1 atk,1 hp, 0 arm, range: Melee
+
+Mana cost:low.
+
+Effects: build 2 at a time. 
+Burning ember: each stack of burning ember give magma elemental +1 hp.
+
+
+
+Magma surge
+
+2 atk,3 hp, 0 arm, range: Low-medium
+
+Mana cost:low-medium.
+
+Effects: Surge: Magma surge moves towards target target becoming immune to all dmg
+and effects and leaving a trail of fire that deal dmg to enemy. 
+Burning ember: no cooldown on surge but use a charge of burning ember(max stacks 1).
+
+
+
+Unstable magma  
+
+2 atk,1 hp, 0 arm, range: Melee
+
+Mana cost: medium.
+
+Effects: Explode: When Unstable magma dies it deals aoe dmg to enemy around itself
+as well as giving giving a stack of burning ember to all friendly units hit(ground only). 
+Burning ember: When Unstable magma have 3 stacks of burning ember his explode will give
+friendly units+1 arm for 5 sec.
+
+
+
+Magma giant
+
+4 atk,7 hp, 1 arm, range: Melee
+
+Mana cost:High.
+
+Effects: Fury: Heal Magma giant for 2hp(cost 1 stack of burning ember).
+Burning ember: First stack gives Magma giant +1 arm(max stack=5).
+
+
+
+Merged magma
+
+2 atk,3 hp, 0 arm, range: Melee
+
+Mana cost:Medium.
+
+Effects: Split: When Merged magma dies he summons Magma elemntals
+depending on the number of burning ember stacks. .
+Burning ember: 0 stacks = 2 Magma elementals(o stacks)
+1 stacks = 2 Magma elementals(1 stacks)
+2 stacks = 3 Magma elementals(1 stacks)
+3 stacks = 3 Magma elementals(2 stacks)
+(max stack=3).
+
+
+
+Magma wisp
+
+1 atk,3 hp, 0 arm, range: Medium
+
+Flying
+
+Mana cost:Medium.
+
+Effects: Breath of fire: give friendly ground target a stack of burning ember.
+Magma wisp: Channel 4 sec stun that deal 2 dmg over the duration.
+
+
+
+Magma dragon
+
+4 atk,4 hp, 1 arm, range: Low-medium
+
+Flying
+
+Mana cost:High.
+
+Effects: None.
+
+
+
+Witch of the flame
+
+3 atk,2 hp, 0 arm, range: High-superhigh
+
+Mana cost:High.
+
+Effects: Witch of the flames normal attacks are ground attacks that can be avoided
+and they deal aoe dmg.
+Burning ember: Witch of the flame gain bonus attack speed for 5 sec when they gain
+a burning ember stack(don't stack and the burning ember is used as soon as it is gained).
+
+

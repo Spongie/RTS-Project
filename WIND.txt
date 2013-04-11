@@ -1,0 +1,95 @@
+WIND
+
+HERO UNIT
+
+Spells: Divine saber: channel for 5 sec and then deal massiv aoe dmg in an area
+(can be used earlier but for less dmg).
+Garden of healing: Channel for 3 sec and then do healing in an area around the caster.
+Tailwind: Make a wind tunnel that slows down movment one way and speed upp movment in 
+the other way(the caster gets the buff windwalker when he cast Tailwind.when windwalker 
+is upp the caster lose all unit collision(windwalker last 5 sec)).
+
+
+
+Thunder spirit
+
+2 atk, 2 hp, 0 arm, range: Medium
+
+Mana cost:Low.
+
+Effects: None.
+
+
+
+Air elemental
+
+1 atk, 3 hp, 1 arm, range: Low-medium
+
+Mana cost:Low-medium.
+
+Effects: Cone attack: Normal attacks deal aoe dmg in a cone infront of the 
+Air elemental.
+Ground attack only.
+
+
+
+Air wisp
+
+1 atk, 2 hp, 0 arm, range: Low
+
+Mana cost:Medium.
+
+Effects: Air pressure: Reduce enemy unit range to melee and slow that target 
+by 70%, last 5 sec.
+Air bubble: Shield target and if the shield is destroyed then there is a aoe knockback 
+around the target that knockback enemy ground units.
+Ground attack only.
+
+
+
+Wind guardian
+
+3 atk, 4 hp, 0 arm, range: Medium
+
+Mana cost:Medium-high.
+
+Effects: Charge: Wind guardian gain +2 dmg and range goes from Medium to high and you can't 
+attack close to the Wind guardian and you gain splash. While charge is aktiv Wind guardian 
+can't move and the splash dmg do dmg to all ground units(friendly fire).
+Takes 5 sec to enter or exit charge mode.
+Ground attack only.
+
+
+
+Air drake
+
+0 atk, 5 hp, 1 arm, range: None
+
+Mana cost:Medium.
+
+Effects: Lift up: can pick up and drop of friendly ground units, if Air drake dies then all 
+units that are picked up dies with it.
+
+
+
+
+Wind raider
+
+2 atk, 4 hp, 0 arm, range: Medium
+
+Mana cost:Medium.
+
+Effects: Compressed air: Wind raider can put down 3 mines that burrows and become stealthed,
+if an enemy ground unit comes in range it unborrows and charge killing itself and dealing 
+massive aoe dmg(friendly fire). 
+Ground attack only.
+
+
+
+Air blaster
+
+3 atk, 4 hp, 0 arm, range: Medium
+
+Mana cost:Medium.
+
+Effects: Air blast: Air blaster gains +1 dmg and more range vs air units(passive).
