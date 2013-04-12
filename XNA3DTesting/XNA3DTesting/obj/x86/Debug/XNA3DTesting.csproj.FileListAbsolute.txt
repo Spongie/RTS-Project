@@ -1,0 +1,8 @@
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\bin\x86\Debug\Content\Test.xnb
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\bin\x86\Debug\XNA3DTesting.exe
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\bin\x86\Debug\XNA3DTesting.pdb
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\obj\x86\Debug\XNA3DTesting.csprojResolveAssemblyReference.cache
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\obj\x86\Debug\XNA3DTesting.exe
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\obj\x86\Debug\XNA3DTesting.pdb
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\bin\x86\Debug\Content\Weel.xnb
