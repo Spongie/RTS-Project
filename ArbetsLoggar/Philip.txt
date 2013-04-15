@@ -2,3 +2,4 @@ Week 1
 Gjorde en början till UML diagram med Fredrik - tid 1.5h
 implenterade klassen BaseObject enligt vårt UML diagram och lade till lite extra - tid = 1h;
 kommenterade koden - 10min
+Startarde på TestMatch väntar på Mer kod för att fortsätta - 30min

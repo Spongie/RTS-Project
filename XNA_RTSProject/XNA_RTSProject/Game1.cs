@@ -18,6 +18,7 @@ namespace XNA_RTSProject
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        TestMatch tstMatch;
 
         public Game1()
         {
@@ -44,6 +45,7 @@ namespace XNA_RTSProject
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            tstMatch = new TestMatch(Content.Load<Model>("Prototype"), graphics.GraphicsDevice.Viewport.AspectRatio);
 
         }
 
@@ -63,7 +65,7 @@ namespace XNA_RTSProject
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-
+            tstMatch.Update(gameTime);
             base.Update(gameTime);
         }
 
@@ -74,7 +76,11 @@ namespace XNA_RTSProject
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
+            spriteBatch.Begin();
 
+            tstMatch.Draw(spriteBatch);
+
+            spriteBatch.End();
 
             base.Draw(gameTime);
         }
