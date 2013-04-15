@@ -292,7 +292,7 @@
 <XPD:ATTR name="Left" type="integer">764</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">192</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">124</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">160</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">186</XPD:ATTR>
 <XPD:REF name="Model">OlrXiRVGDUSnikvYYRz9kAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="6y/aoisPKkK+wcHVHHbhoAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="WBlV0JAxqkOvJdExb2TFFwAA">
@@ -351,7 +351,7 @@
 <XPD:OBJ name="OwnedViews[10]" type="UMLAssociationView" guid="GqOcU0VvUkyQ6Z1Ex/wzMQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">764,229;671,166</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">764,239;671,170</XPD:ATTR>
 <XPD:REF name="Model">8hdD02432kibjjbgwFxTlwAA</XPD:REF>
 <XPD:REF name="Head">q4wYh8O0LkSwkXsAPX9PswAA</XPD:REF>
 <XPD:REF name="Tail">gWNfCh5wvEC3dEQNsABPYwAA</XPD:REF>
@@ -638,7 +638,7 @@
 <XPD:OBJ name="OwnedViews[16]" type="UMLAssociationView" guid="T0Im8eGDDkejAMj24uggqwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">811,351;806,376</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">807,377;798,423</XPD:ATTR>
 <XPD:REF name="Model">Tb0y8TVuIkKQ9Y2QUqAI8wAA</XPD:REF>
 <XPD:REF name="Head">/sNSxfzS6kSbEpAV+4fZ6wAA</XPD:REF>
 <XPD:REF name="Tail">gWNfCh5wvEC3dEQNsABPYwAA</XPD:REF>
@@ -1104,7 +1104,7 @@
 <XPD:ATTR name="Left" type="integer">12</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">200</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">86</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">108</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">121</XPD:ATTR>
 <XPD:REF name="Model">Zk5B7VESH0GpxQWUrwfWEAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="AQIJbQEvJEGCHCjxRtz0WQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="PoEJQ97KHUyJYEza4pA3IAAA">
@@ -1484,7 +1484,7 @@
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">3BhDAQtoBE6m0eD2Re6UgQAA</XPD:REF>
 <XPD:REF name="Associations[1]">/5nGxIlCuUGDGZdK3FvdlQAA</XPD:REF>
-<XPD:ATTR name="#Attributes" type="integer">3</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">5</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="tXlzg1aVuUiuZ1wsH1NelAAA">
 <XPD:ATTR name="Name" type="string">player</XPD:ATTR>
 <XPD:REF name="Owner">OlrXiRVGDUSnikvYYRz9kAAA</XPD:REF>
@@ -1495,6 +1495,16 @@
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="/Vhn0Vxn2ky6ouHu7qc0nQAA">
 <XPD:ATTR name="Name" type="string">gameState</XPD:ATTR>
+<XPD:REF name="Owner">OlrXiRVGDUSnikvYYRz9kAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="UxV9lv8zkESC21/aqTqTuQAA">
+<XPD:ATTR name="Name" type="string">View</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">Matrix</XPD:ATTR>
+<XPD:REF name="Owner">OlrXiRVGDUSnikvYYRz9kAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="LfPNTHSNM0SBS3bzWqethwAA">
+<XPD:ATTR name="Name" type="string">Projection</XPD:ATTR>
+<XPD:ATTR name="TypeExpression" type="string">Matrix</XPD:ATTR>
 <XPD:REF name="Owner">OlrXiRVGDUSnikvYYRz9kAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -1911,9 +1921,13 @@
 <XPD:REF name="Views[1]">TOf2aQcnjk+NYc/5VL40xQAA</XPD:REF>
 <XPD:REF name="Views[2]">3D3OrACQg0CF78j+BZzRWgAA</XPD:REF>
 <XPD:REF name="Views[3]">5G2balNRw02cfgR1gqokegAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">1</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">2</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="m9b6pUZKCUCs6ZvyuYGk9QAA">
 <XPD:ATTR name="Name" type="string">Intersects</XPD:ATTR>
+<XPD:REF name="Owner">Zk5B7VESH0GpxQWUrwfWEAAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Operations[1]" type="UMLOperation" guid="yAfEDiHwAEiBAiwLIVunjgAA">
+<XPD:ATTR name="Name" type="string">UpdateBox</XPD:ATTR>
 <XPD:REF name="Owner">Zk5B7VESH0GpxQWUrwfWEAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#Attributes" type="integer">4</XPD:ATTR>
