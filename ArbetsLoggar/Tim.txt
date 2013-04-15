@@ -1,0 +1,2 @@
+Week 1
+Har gjort MovingObject - tid 1h

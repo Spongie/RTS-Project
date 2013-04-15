@@ -12,7 +12,7 @@ using Microsoft.Xna.Framework.Media;
 
 namespace XNA_RTSProject
 {
-    class MovingObject:BaseObject
+    class MovingObject : BaseObject
     {
         #region classValues
         private Vector3 targetPosition;
@@ -24,6 +24,7 @@ namespace XNA_RTSProject
         private float damage;
         private float timeBetweenAttacks;
         private float timeSinceLastAttack;
+        private Vector3 targetEnemy;
         #endregion
 
         #region properties
@@ -51,13 +52,38 @@ namespace XNA_RTSProject
             get { return selectionPriority; }
         }
 
-        #endregion
-
-        public override void Update(GameTime gameTime)
+        public float Cost
         {
-
+            get { return cost; }
+            set { cost = value; }
         }
 
+        public Vector3 TargetEnemy
+        {
+            get { return targetEnemy; }
+            set { targetEnemy = value; }
+        }
+        #endregion
+
+        public MovingObject(Vector3 pos, Model modl, float targetAttr, float maxHp, float ligghtarm, float medArm, float hevArm,
+            float visRange, float attRange, float stealthDetRadius, AttackType attType, Vector3 position, float speed, float priority,
+            float timeTrain, float cost, bool stealthed, float dmg, float atkSpeed, float lastAttack, Vector3 enemyTarget)
+            : base(pos, modl, targetAttr, maxHp, ligghtarm, medArm, hevArm, visRange, attRange, stealthDetRadius, attType)
+        {
+            targetPosition = position;
+            this.speed = speed;
+            selectionPriority = priority;
+            timeToTrain = timeTrain;
+            this.cost = cost;
+            isStealthed = stealthed;
+            damage = dmg;
+            timeBetweenAttacks = atkSpeed;
+            timeSinceLastAttack = lastAttack;
+            targetEnemy = enemyTarget;
+        }
+        public override void Update(GameTime gameTime)
+        {
+        }
         public virtual void Draw(Matrix view, Matrix projction)
         {
 
