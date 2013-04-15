@@ -144,12 +144,51 @@ namespace XNA_RTSProject
         }
 
         #endregion
+        /// <summary>
+        /// Constructor to Init baseObjecy
+        /// </summary>
+        /// <param name="pos">objects position</param>
+        /// <param name="modl">objects model</param>
+        /// <param name="targetAttr">a value that show how likely he is to be attacked</param>
+        /// <param name="maxHp">Maximum HP</param>
+        /// <param name="ligghtarm">light armor value</param>
+        /// <param name="medArm">medium armor value</param>
+        /// <param name="hevArm">heavy armor value</param>
+        /// <param name="visRange">vision range</param>
+        /// <param name="attRange">attack range</param>
+        /// <param name="stealthDetRadius">range of stealth detection</param>
+        /// <param name="attType">attack typ</param>
+        public BaseObject(Vector3 pos, Model modl, float targetAttr, float maxHp, float ligghtarm, float medArm, float hevArm,
+            float visRange, float attRange, float stealthDetRadius, AttackType attType)
+        {
+            position = pos;
+            model = modl;
+            targetAttraction = targetAttr;
+            maxHealth = maxHp;
+            currentHealth = maxHp;
+            lightArmor = ligghtarm;
+            mediumArmor = medArm;
+            heavyArmor = hevArm;
+            visionRange = visRange;
+            attackRange = attRange;
+            attackType = attType;
+            box = new _3dBox(); // WAIT FOR REAL CONSTRUCTOR
+        }
 
+        /// <summary>
+        /// Updates BaseObject
+        /// </summary>
+        /// <param name="gameTime"></param>
         public virtual void Update(GameTime gameTime)
         {
 
         }
 
+        /// <summary>
+        /// Draws the object
+        /// </summary>
+        /// <param name="view"></param>
+        /// <param name="projection"></param>
         public virtual void Draw(Matrix view, Matrix projection)
         {
             Matrix[] transforms = new Matrix[model.Bones.Count];
