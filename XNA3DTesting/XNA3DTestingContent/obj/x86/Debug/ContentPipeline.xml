@@ -7,19 +7,12 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\bin\x86\Debug\Content\Test.xnb</Output>
-      <Time>2013-04-12T13:27:35.8036746+02:00</Time>
+      <Output>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTesting\XNA3DTesting\bin\x86\Debug\Content\Test.xnb</Output>
+      <Time>2013-04-15T11:06:40.7834285+02:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Test_0.xml</Key>
-        <Value>2013-04-12T13:32:15.5076727+02:00</Value>
+        <Value>2013-04-15T11:18:41.2146348+02:00</Value>
       </Dependency>
-    </Item>
-    <Item>
-      <Source>Test.X</Source>
-      <Importer>XImporter</Importer>
-      <Options>IntermediateFile, DontCacheImportedData</Options>
-      <Output>obj\x86\Debug\Test_0.xml</Output>
-      <Time>2013-04-12T13:27:35.8036746+02:00</Time>
     </Item>
     <Item>
       <Source>Weel.X</Source>
@@ -27,19 +20,26 @@
       <Importer>XImporter</Importer>
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\bin\x86\Debug\Content\Weel.xnb</Output>
-      <Time>2013-04-12T14:34:25.0549906+02:00</Time>
+      <Output>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTesting\XNA3DTesting\bin\x86\Debug\Content\Weel.xnb</Output>
+      <Time>2013-04-15T11:06:40.826431+02:00</Time>
       <Dependency>
         <Key>obj\x86\Debug\Weel_0.xml</Key>
-        <Value>2013-04-12T14:34:41.4699295+02:00</Value>
+        <Value>2013-04-15T11:18:41.6246583+02:00</Value>
       </Dependency>
+    </Item>
+    <Item>
+      <Source>Test.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Test_0.xml</Output>
+      <Time>2013-04-15T11:06:40.7834285+02:00</Time>
     </Item>
     <Item>
       <Source>Weel.X</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>obj\x86\Debug\Weel_0.xml</Output>
-      <Time>2013-04-12T14:34:25.0549906+02:00</Time>
+      <Time>2013-04-15T11:06:40.826431+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -47,10 +47,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTestingContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTestingContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTesting\XNA3DTestingContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTesting\XNA3DTesting\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTesting\XNA3DTestingContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTesting\XNA3DTesting\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -79,7 +79,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-10-12T13:22:55.8151073+02:00</Value>
+        <Value>2012-04-02T01:14:54.9158178+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

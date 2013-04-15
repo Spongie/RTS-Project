@@ -60,7 +60,7 @@
 <XPD:ATTR name="Left" type="integer">164</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">32</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">139</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">238</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">225</XPD:ATTR>
 <XPD:REF name="Model">hTbCnocG50ap+8pKy0P29QAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="tExbW8LF50+AZB1hof4f5gAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="6XaT9JBkAEyA7j6QNWMPCgAA">
@@ -118,7 +118,7 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLDependencyView" guid="JdKZrc7G30Ka5scVZwE3kQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">302,133;380,114</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">302,129;380,112</XPD:ATTR>
 <XPD:REF name="Model">VAH+WHVF4kq5+OpT2SkerAAA</XPD:REF>
 <XPD:REF name="Head">hXzSZLoKjEiX209zYHAYEwAA</XPD:REF>
 <XPD:REF name="Tail">KCGphWMyKUqol32V0CaQUgAA</XPD:REF>
@@ -175,7 +175,7 @@
 <XPD:OBJ name="OwnedViews[4]" type="UMLDependencyView" guid="uv/fW0tnNUuIel85jbWjOgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">302,228;336,266</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">302,224;336,264</XPD:ATTR>
 <XPD:REF name="Model">g0gkaJyvykSFdFF7XEHteAAA</XPD:REF>
 <XPD:REF name="Head">HdVHKGx9cEa0Gd1giodj9gAA</XPD:REF>
 <XPD:REF name="Tail">KCGphWMyKUqol32V0CaQUgAA</XPD:REF>
@@ -1152,7 +1152,7 @@
 <XPD:ATTR name="Name" type="string">Update</XPD:ATTR>
 <XPD:REF name="Owner">hTbCnocG50ap+8pKy0P29QAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#Attributes" type="integer">13</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">12</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="kb/yg8vXp0WykDh41boajAAA">
 <XPD:ATTR name="Name" type="string">Position</XPD:ATTR>
 <XPD:REF name="Owner">hTbCnocG50ap+8pKy0P29QAA</XPD:REF>
@@ -1203,10 +1203,6 @@
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[11]" type="UMLAttribute" guid="fODFoSeM30uscijwgG+dYwAA">
 <XPD:ATTR name="Name" type="string">Attacktype</XPD:ATTR>
-<XPD:REF name="Owner">hTbCnocG50ap+8pKy0P29QAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Attributes[12]" type="UMLAttribute" guid="/8PURCaY/0GBA9YadhYCWwAA">
-<XPD:ATTR name="Name" type="string">box</XPD:ATTR>
 <XPD:REF name="Owner">hTbCnocG50ap+8pKy0P29QAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>

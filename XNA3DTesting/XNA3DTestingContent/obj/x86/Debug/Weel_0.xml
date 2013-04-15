@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>Box001</Name>
     <Identity>
-      <SourceFilename>C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTestingContent\Weel.X</SourceFilename>
+      <SourceFilename>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTesting\XNA3DTestingContent\Weel.X</SourceFilename>
       <SourceTool>XImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 5.743972 -3.756937 -5.601242 1</Transform>
@@ -30,7 +30,7 @@
   <Resources>
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Identity>
-        <SourceFilename>C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTestingContent\Weel.X</SourceFilename>
+        <SourceFilename>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTesting\XNA3DTestingContent\Weel.X</SourceFilename>
         <SourceTool>XImporter</SourceTool>
       </Identity>
       <OpaqueData>

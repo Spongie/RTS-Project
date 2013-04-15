@@ -48,9 +48,10 @@ namespace XNA3DTesting
         {
             Matrix[] transforms = new Matrix[model.Bones.Count];
             model.CopyAbsoluteBoneTransformsTo(transforms);
-
+            int i = 0;
             foreach (ModelMesh mesh in model.Meshes)
             {
+                i++;
                 foreach (BasicEffect effect in mesh.Effects)
                 {
                     effect.View = view;
@@ -58,7 +59,8 @@ namespace XNA3DTesting
                     effect.Projection = projection;
                     effect.EnableDefaultLighting();
                 }
-                mesh.Draw();
+                if(i%2 == 0)
+                    mesh.Draw();
             }
         }
     }
