@@ -1,3 +1,5 @@
 Week1
 Gjorde en början till UML diagram med Philip - tid 1.5h
 Implenterade en KeyMouseReader - tid = 10min;
+
+Startarde på TestMatch väntar på Mer kod för att fortsätta - 30min
