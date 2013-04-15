@@ -5,7 +5,7 @@ using System.Text;
 
 namespace XNA_RTSProject
 {
-    class MovableObject
+    class MovableObject : BaseObject
     {
     }
 }
