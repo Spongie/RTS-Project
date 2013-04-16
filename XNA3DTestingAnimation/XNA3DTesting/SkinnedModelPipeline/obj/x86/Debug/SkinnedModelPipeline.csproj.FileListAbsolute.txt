@@ -1,0 +1,14 @@
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Entercyber\Documents\Visual Studio 2010\Projects\XNA3DTesting\XNA3DTesting\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb

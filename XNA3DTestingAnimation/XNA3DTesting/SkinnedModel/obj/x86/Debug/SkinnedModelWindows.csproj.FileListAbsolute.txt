@@ -1,0 +1,5 @@
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\Entercyber\Desktop\Ny mapp (2)\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
