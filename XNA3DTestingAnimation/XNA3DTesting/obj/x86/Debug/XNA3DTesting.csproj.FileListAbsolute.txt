@@ -26,3 +26,15 @@ C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTest
 C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\obj\x86\Debug\XNA3DTesting.exe
 C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\obj\x86\Debug\XNA3DTesting.pdb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\obj\x86\Debug\XNA3DTesting.exe
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\obj\x86\Debug\XNA3DTesting.pdb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\bin\x86\Debug\Content\Test.xnb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\bin\x86\Debug\Content\Weel.xnb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\bin\x86\Debug\Content\asdasd.xnb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\bin\x86\Debug\Content\brick_running_0.xnb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\bin\x86\Debug\XNA3DTesting.exe
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\bin\x86\Debug\XNA3DTesting.pdb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\bin\x86\Debug\SkinnedModel.dll
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\obj\x86\Debug\XNA3DTesting.csprojResolveAssemblyReference.cache
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

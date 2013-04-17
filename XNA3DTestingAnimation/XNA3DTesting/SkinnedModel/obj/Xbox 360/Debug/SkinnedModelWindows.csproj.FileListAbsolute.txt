@@ -10,3 +10,9 @@ C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTest
 C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.dll
 C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.pdb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\bin\Xbox 360\Debug\SkinnedModel.dll
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\bin\Xbox 360\Debug\SkinnedModel.pdb
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\obj\Xbox 360\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.dll
+C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTesting\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.pdb

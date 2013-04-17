@@ -2,7 +2,7 @@
 <XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
   <Asset Type="Graphics:NodeContent">
     <Identity>
-      <SourceFilename>C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTestingContent\asdasd.X</SourceFilename>
+      <SourceFilename>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTestingContent\asdasd.X</SourceFilename>
       <SourceTool>XImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
@@ -611,7 +611,7 @@
   <Resources>
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Identity>
-        <SourceFilename>C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTestingContent\asdasd.X</SourceFilename>
+        <SourceFilename>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTestingContent\asdasd.X</SourceFilename>
         <SourceTool>XImporter</SourceTool>
       </Identity>
       <OpaqueData>

@@ -3,7 +3,7 @@
   <Asset Type="Graphics:NodeContent">
     <Name>Box001</Name>
     <Identity>
-      <SourceFilename>C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTestingContent\Test.X</SourceFilename>
+      <SourceFilename>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTestingContent\Test.X</SourceFilename>
       <SourceTool>XImporter</SourceTool>
     </Identity>
     <Transform>1 0 0 0 0 1 0 0 0 0 1 0 7.520546 0 -5.601242 1</Transform>
@@ -30,7 +30,7 @@
   <Resources>
     <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
       <Identity>
-        <SourceFilename>C:\Users\Entercyber\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTestingContent\Test.X</SourceFilename>
+        <SourceFilename>C:\Users\janabäst\Documents\GitHub\RTS-Project\XNA3DTestingAnimation\XNA3DTestingContent\Test.X</SourceFilename>
         <SourceTool>XImporter</SourceTool>
       </Identity>
       <OpaqueData>
