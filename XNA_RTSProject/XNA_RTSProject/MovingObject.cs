@@ -25,6 +25,8 @@ namespace XNA_RTSProject
         private float timeBetweenAttacks;
         private float timeSinceLastAttack;
         private Vector3 targetEnemy;
+        private float energy;
+        private float energyRegen;
         #endregion
 
         #region properties
@@ -63,11 +65,24 @@ namespace XNA_RTSProject
             get { return targetEnemy; }
             set { targetEnemy = value; }
         }
+
+        public float Energy
+        {
+            get { return energy; }
+            set { energy = value; }
+        }
+
+        public float EnergyRegen
+        {
+            get { return energyRegen; }
+            set { energyRegen = value; }
+        }
         #endregion
 
         public MovingObject(Vector3 pos, Model modl, float targetAttr, float maxHp, float ligghtarm, float medArm, float hevArm,
             float visRange, float attRange, float stealthDetRadius, AttackType attType, Vector3 position, float speed, float priority,
-            float timeTrain, float cost, bool stealthed, float dmg, float atkSpeed, float lastAttack, Vector3 enemyTarget)
+            float timeTrain, float cost, bool stealthed, float dmg, float atkSpeed, float lastAttack, Vector3 enemyTarget, float energy,
+            float energyReg)
             : base(pos, modl, targetAttr, maxHp, ligghtarm, medArm, hevArm, visRange, attRange, stealthDetRadius, attType)
         {
             targetPosition = position;
@@ -80,13 +95,15 @@ namespace XNA_RTSProject
             timeBetweenAttacks = atkSpeed;
             timeSinceLastAttack = lastAttack;
             targetEnemy = enemyTarget;
+            this.energy = energy;
+            energyRegen = energyReg;
         }
         public override void Update(GameTime gameTime)
         {
         }
         public virtual void Draw(Matrix view, Matrix projction)
         {
-
+            base.Draw(view, projction);
         }
     }
 }
