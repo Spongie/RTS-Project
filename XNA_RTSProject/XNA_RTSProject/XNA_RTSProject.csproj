@@ -111,6 +111,7 @@
     <Compile Include="BaseObject.cs" />
     <Compile Include="Camera.cs" />
     <Compile Include="Enums.cs" />
+    <Compile Include="Ground.cs" />
     <Compile Include="KeyMouseReader.cs" />
     <Compile Include="MovableObject.cs" />
     <Compile Include="MovingObject.cs" />

@@ -16,7 +16,7 @@ namespace XNA_RTSProject
     {
         private Matrix view;
         private Matrix projection;
-        private MovableObject testObject;
+        private MovingObject testObject;
         private float aspectRatio;
         Camera camera;
 
@@ -24,7 +24,8 @@ namespace XNA_RTSProject
         {
             aspectRatio = aspRatio;
             projection = Matrix.CreatePerspectiveFieldOfView(MathHelper.ToRadians(45.0f), aspectRatio, 1f, 1000f);
-            //testObject = new testObject(we need more stuffs
+            testObject = new MovingObject(Vector3.Zero, testModel, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, 0.0f, AttackType.None, Vector3.Zero,
+                0.0f, 0.0f, 0.0f, 0.0f, false, 0.0f, 0.0f, 0.0f, Vector3.Zero);
         }
 
         public void Update(GameTime gameTime)

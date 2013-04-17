@@ -7,6 +7,7 @@ namespace XNA_RTSProject
 {
     public enum AttackType
     {
+        None
 
     }
 }

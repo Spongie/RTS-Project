@@ -172,7 +172,7 @@ namespace XNA_RTSProject
             visionRange = visRange;
             attackRange = attRange;
             attackType = attType;
-            box = new _3dBox(); // WAIT FOR REAL CONSTRUCTOR
+            box = new _3dBox(pos, 100, 100, 100); // WAIT FOR REAL CONSTRUCTOR
         }
 
         /// <summary>
